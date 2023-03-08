@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "file not empty"
+echo $PWD
