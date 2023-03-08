@@ -1,1 +1,2 @@
-is not empty
+#!/bin/bash
+echo "file not empty"
